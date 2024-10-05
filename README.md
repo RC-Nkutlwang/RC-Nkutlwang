@@ -37,7 +37,7 @@ Hello! I'm **Tshepo Romeo Nkutlwang**, a 22-year-old undergraduate student pursu
 
 ## 🚀 Projects
 
-See my [GitHub home page](https://github.com/RC-Nkutlwang) for detailed descriptions and links to my projects.
+See (https://github.com/Nimosteve88/ChargeIt) to see energy management project i collaborated with a team of my peer for the Imperial College London second year summer project.
 
 ---
 
