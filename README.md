@@ -31,7 +31,7 @@ Hello! I'm **Tshepo Romeo Nkutlwang**, a 22-year-old undergraduate student pursu
 - **Embedded Systems**: Microcontrollers, Arduino, Raspberry Pi, FPGA
 - **Software Development**: Object-Oriented Programming, Data Structures, Algorithms
 - **Power Systems**: Circuit Design, Power Electronics, Renewable Energy Systems
-- **Tools & Platforms**: Git, MATLAB/Simulink, Altium Designer
+- **Tools & Platforms**: Git, MATLAB/Simulink
 
 ---
 
