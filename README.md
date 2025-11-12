@@ -1,18 +1,20 @@
 # Tshepo Romeo Nkutlwang
 
-### 📍 London | 🎓 3rd Year MEng Electrical and Electronics Engineering | 🏛️ Imperial College London
+### 📍 London | 🎓 Final Year MEng Electrical and Electronics Engineering | 🏛️ Imperial College London
 
 ---
 
 ## 👋 About Me
 
-Hello! I'm **Tshepo Romeo Nkutlwang**, a 22-year-old undergraduate student pursuing a **Master of Engineering (MEng)** in **Electrical and Electronics Engineering** at **Imperial College London**. Originally from the beautiful country of **Botswana**, I am deeply passionate about the transformative power of technology and its potential to drive innovation and improve lives.
+Hello! I'm **Tshepo Romeo Nkutlwang**, a 23-year-old undergraduate student pursuing a **Master of Engineering (MEng)** in **Electrical and Electronics Engineering** at **Imperial College London**. Originally from the beautiful country of **Botswana**, I am deeply passionate about the transformative power of technology and its potential to drive innovation and improve lives.
 
 ### 🌟 What I’m Interested In:
 
 - **Embedded Systems Programming**: I am fascinated by the intricacies of embedded systems and how they control and optimize complex hardware systems.
 - **Power Systems**: I aspire to contribute to the future of sustainable energy by designing and optimizing power systems.
 - **Software Programming**: From writing efficient code to solving complex problems, I enjoy the challenge and creativity that software development brings.
+- **Full Custom IC design**: Working with CMOS devices to design circuits to match required specifications.
+- **Robotic Manipulation**: using kinematics to map expected behaviour for auctuator arms and tuning the robot to perform as desired.
 - **Artificial Intelligence**: AI’s ability to learn, adapt, and revolutionize industries is an area I am eager to explore further.
 
 ---
@@ -31,14 +33,16 @@ Hello! I'm **Tshepo Romeo Nkutlwang**, a 22-year-old undergraduate student pursu
 - **Embedded Systems**: Microcontrollers, Arduino, Raspberry Pi, FPGA
 - **Software Development**: Object-Oriented Programming, Data Structures, Algorithms
 - **Power Systems**: Circuit Design, Power Electronics, Renewable Energy Systems
-- **Tools & Platforms**: Git, MATLAB/Simulink
+- **Tools & Platforms**: Git, MATLAB/Simulink, Cadence, LtSpice, Isabelle, Dafny, SimbiYosys
 
 ---
 
 ## 🚀 Projects
 
-See (https://github.com/Nimosteve88/ChargeIt) to see energy management project I collaborated with a team of my peers for the Imperial College London second year summer project.
-
+- (https://github.com/Nimosteve88/ChargeIt) to see energy management project I collaborated with a team of my peers for the Imperial College London second year summer project.
+- (https://github.com/BenB-722/The_Incident_Of_1218) for the embedded projects i collaborated with my peers on.(https://github.com/BenB-722/Marketing) is for the website we created for it
+- (https://github.com/jaym-01/ShipDetection) for the Consultancy group project i worked in , in partnership with the company Oshen.
+- (https://github.com/ade-04/Wall-EEE) for the robotic arm project
 ---
 
 ## 🎯 Career Aspirations
