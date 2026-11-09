@@ -1,12 +1,12 @@
 # Tshepo Romeo Nkutlwang
 
-### 📍 London | 🎓 Final Year MEng Electrical and Electronics Engineering | 🏛️ Imperial College London
+### 📍 London | 🎓 MEng Electrical and Electronics Engineering | 🏛️ Imperial College London
 
 ---
 
 ## 👋 About Me
 
-Hello! I'm **Tshepo Romeo Nkutlwang**, a 23-year-old undergraduate student pursuing a **Master of Engineering (MEng)** in **Electrical and Electronics Engineering** at **Imperial College London**. Originally from the beautiful country of **Botswana**, I am deeply passionate about the transformative power of technology and its potential to drive innovation and improve lives.
+Hello! I'm **Tshepo Romeo Nkutlwang**, a **Master of Engineering (MEng)** in **Electrical and Electronics Engineering** at **Imperial College London** graduate as of June 2026. Originally from the beautiful country of **Botswana**, I am deeply passionate about the transformative power of technology and its potential to drive innovation and improve lives.
 
 ### 🌟 What I’m Interested In:
 
@@ -16,6 +16,8 @@ Hello! I'm **Tshepo Romeo Nkutlwang**, a 23-year-old undergraduate student pursu
 - **Full Custom IC design**: Working with CMOS devices to design circuits to match required specifications.
 - **Robotic Manipulation**: using kinematics to map expected behaviour for auctuator arms and tuning the robot to perform as desired.
 - **Artificial Intelligence**: AI’s ability to learn, adapt, and revolutionize industries is an area I am eager to explore further.
+- **DATA**: Currently building skill sets to complement the curiosity in multiple aspects of the field.
+            Working on taking hands on courses on LinkedIn as well as attempting challenges on Kaggle. **More on these soon!!!!!**
 
 ---
 
@@ -23,7 +25,7 @@ Hello! I'm **Tshepo Romeo Nkutlwang**, a 23-year-old undergraduate student pursu
 
 - **MEng Electrical and Electronics Engineering**  
   *Imperial College London*  
-  2022 - Present (Expected Graduation: 2026)
+  2022 -  2026
 
 ---
 
@@ -48,6 +50,7 @@ Hello! I'm **Tshepo Romeo Nkutlwang**, a 23-year-old undergraduate student pursu
 ## 🎯 Career Aspirations
 
 My ultimate goal is to leverage my skills and knowledge in **embedded systems, power systems, software programming, and artificial intelligence** to develop innovative solutions that address real-world challenges. I am particularly interested in opportunities where I can contribute to the advancement of technology in sustainable energy, smart systems, and AI-driven innovations.
+
 
 ---
 
